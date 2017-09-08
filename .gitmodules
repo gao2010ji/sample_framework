@@ -1,0 +1,3 @@
+[submodule "log4z"]
+	path = log4z
+	url = https://github.com/zsummer/log4z.git
